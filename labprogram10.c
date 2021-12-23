@@ -1,3 +1,4 @@
+//Implementation of stacks using singly linked list
 #include<stdio.h>
 #include<stdlib.h>
 
